@@ -23,7 +23,6 @@ def oxford_comma(array)
     new_array.insert(ins_and_index, "and ")
     
     oxford_string = new_array.join
-    
   
   end
   
