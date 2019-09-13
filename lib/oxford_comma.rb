@@ -31,11 +31,3 @@ def oxford_comma(array)
 end
 
 
-# Test Code 
-
-=begin
-some_array = ["one", "two", "three", "four", "five", "six"]
-
-puts oxford_comma(some_array)
-=end
-
