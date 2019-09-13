@@ -20,6 +20,8 @@ def oxford_comma(array)
       
     end
     
+    
+    
     oxford_string = new_array.join
     
   
