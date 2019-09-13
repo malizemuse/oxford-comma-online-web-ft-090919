@@ -12,7 +12,7 @@ def oxford_comma(array)
     
     counter = 0
     
-    while counter != (new_array.size - 1 )
+    while counter != (new_array.size - 1)
       
       new_array[counter] << ", "
       
