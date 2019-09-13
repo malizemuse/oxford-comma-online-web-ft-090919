@@ -10,6 +10,7 @@ def oxford_comma(array)
   
   else
     
+    ins_and_index = array.size - 1
     counter = 0
     
     while counter != (new_array.size - 1)
