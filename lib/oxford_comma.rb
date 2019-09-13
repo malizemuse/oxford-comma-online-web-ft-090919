@@ -15,7 +15,6 @@ def oxford_comma(array)
     while counter != (new_array.size - 1)
       
       new_array[counter] << ", "
-      
       counter += 1 
       
     end
