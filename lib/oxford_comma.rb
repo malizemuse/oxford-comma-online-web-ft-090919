@@ -34,6 +34,6 @@ end
 # Test Code 
 
 
-some_array = ["one", "two", "three", "four"]
+some_array = ["one", "two", "three", "four", "five", "six"]
 
 puts oxford_comma(some_array)
